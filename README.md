@@ -1,4 +1,4 @@
-this is my github account
+This is my github account
 
 <!---
 Nandyalasrimanikantasubbarao/Nandyalasrimanikantasubbarao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
