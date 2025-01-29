@@ -19,6 +19,6 @@ Portfolio:https://www.srimanikanta.me/
 Also interested in:
 Chatbot devlopment, Machine Learning,Three js
 
-Cheers,
+Cheers
 Manikanta
 srimanikanta.me
