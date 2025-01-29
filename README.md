@@ -12,7 +12,9 @@ currently learing: Express , Next js
 
 Contact
 
-📧 Email: srimaninandyala@gmail.com📞 Phone: 9059545745🔗 LinkedIn:www.linkedin.com/in/srimani-nandyala-16088b187 Portfolio: srimanikanta.me
+📧 Email: srimaninandyala@gmail.com 📞 Phone: 9059545745
+🔗 LinkedIn:www.linkedin.com/in/srimani-nandyala-16088b187
+Portfolio:https://www.srimanikanta.me/
 
 Also interested in:
 Chatbot devlopment, Machine Learning,Three js
