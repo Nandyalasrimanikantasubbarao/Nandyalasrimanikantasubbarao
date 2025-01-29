@@ -1,6 +1,3 @@
-Here's a profile README based on the provided content:
-
-```markdown
 # Hello World 👋
 
 I am Nandyala Sri Manikanta Subbarao, a passionate Web Developer. I am currently in my final year of B.Tech. As a final-year student, I am eager to join a dynamic company where I can apply my skills, grow professionally, and contribute meaningfully.
@@ -37,6 +34,3 @@ I am Nandyala Sri Manikanta Subbarao, a passionate Web Developer. I am currently
 Cheers,  
 Manikanta  
 [srimanikanta.me](https://www.srimanikanta.me/)
-```
-
-Feel free to customize this template further to better reflect your personality and preferences!
